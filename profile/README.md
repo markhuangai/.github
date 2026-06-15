@@ -24,7 +24,6 @@ Mark writes about Go, AI/LLMs, distributed systems, and the practical lessons th
 
 | Repository | Focus |
 | --- | --- |
-| [content.markhuang.ai](https://github.com/markhuangai/content.markhuang.ai) | Content source for markhuang.ai |
 | [dense-mem](https://github.com/markhuangai/dense-mem) | Memory experiments for LLM workflows |
 | [git-vibe](https://github.com/markhuangai/git-vibe) | GitHub automation experiments |
 
