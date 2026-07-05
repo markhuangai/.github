@@ -20,13 +20,6 @@ MarkHuang.ai is a public workspace for creative ideas, AI-assisted engineering e
 
 Mark writes about Go, AI/LLMs, distributed systems, and the practical lessons that come from turning rough ideas into working software.
 
-## Active Projects
-
-| Repository | Focus |
-| --- | --- |
-| [dense-mem](https://github.com/markhuangai/dense-mem) | Memory experiments for LLM workflows |
-| [git-vibe](https://github.com/markhuangai/git-vibe) | GitHub automation experiments |
-
 ## Working Themes
 
 - AI-assisted software development with stronger quality gates
